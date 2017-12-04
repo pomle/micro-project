@@ -6,8 +6,6 @@ If you have points in 3D space this library can rotate, scale and project them t
 
 ## Example
 
-[Live Example](https://codesandbox.io/s/l9yn87q54z)
-
 ```js
 import {createMesh, Camera, drawMesh} from '@pomle/micro-project';
 
